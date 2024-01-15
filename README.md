@@ -37,18 +37,26 @@ reflecting their performance in predicting customer churn:
 
 Since AdaBoost model has the best results in initial model 10 fold cross validation was performed
 on this model. The following results have been obtained:
+
 Recall : 99.91%
 ROC-AUC : 99.97%
+
 These results show that the results of the inital model were true and we can say the AdaBoost
 model is performing very well.
+
 Later hyperparameter tunning was done using grid search was used to get the best parameters in
 the Adaboost model. The following are the results:
+
 Best hyperparameters for recall and ROC-AUC:
+
 Recall : learning rate: 0.5, n estimators: 300
 ROC-AUC : learning rate: 0.01, n estimators: 600
+
 The results of tuned AdaBoost model are:
+
 Recall : 0.999465286472117
 ROC-AUC : 0.9998443423208508
+
 These results show that the AdaBoost model is almost achieving a near perfect recall and ROC-AUC
 score.
 
