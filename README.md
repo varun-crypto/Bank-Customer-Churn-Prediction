@@ -84,6 +84,7 @@ results were indeed true. Then through hyperparameter tuning the best parameters
 for AdaBoost model and recall and ROC-AUC scores were give for tuned model which showed a near
 perfect results. Finally, feature importance analysis of AdaBoost model revealed that ’Complain’
 and ’EstimatedSalary’ were the most important features to determine customer churn.
+
 This AdaBoost model can be used by the banks to identify weather a customer churns or not
 by using the customer data. Then later the banks can take appropriate measures to retain their
 customers.
