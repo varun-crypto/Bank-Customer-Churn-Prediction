@@ -1,5 +1,7 @@
 # Bank-Customer-Churn-Prediction
 
+![image](https://github.com/varun-crypto/Bank-Customer-Churn-Prediction/assets/69026838/c403af11-7503-4ace-bd68-2b5d1edf8e8f)
+
 # Introduction
 
 In today’s world, customer churn has become a significant challenge for the banking sector.
